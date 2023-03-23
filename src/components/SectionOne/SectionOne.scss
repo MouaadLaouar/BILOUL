@@ -1,0 +1,54 @@
+.SectionOne {
+    height: 100vh;
+    
+    
+    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(../src/assets/HeroLogo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+    color: #ffffff;
+
+    h1 {
+        width: 876.97px;
+        height: 133px;
+        margin-top: 80px;
+        font-weight: 500;
+        font-size: 55.25px;
+        line-height: 66px;
+        
+    }
+
+    p {
+        width: 918.01px;
+        height: 55px;
+        margin-top: 80px;
+        font-weight: 400;
+        font-size: 19.5px;
+        line-height: 27px;
+    }
+
+    button {
+        margin-top: 106px;
+        width: 270px;
+        height: 57px;
+        background: linear-gradient(264.51deg, rgba(30, 34, 49, 0.024) -67.92%, rgba(236, 46, 49, 0.624) 103.89%);
+        box-shadow: -5px 7px 17px rgba(0, 0, 0, 0.4);
+        border-radius: 15px;
+        border: none;
+
+        font-weight: 700;
+        font-size: 16.25px;
+        line-height: 57px;
+
+        color: #ffffff;
+
+        cursor: pointer;
+    }
+}

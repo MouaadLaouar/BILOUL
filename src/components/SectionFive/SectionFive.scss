@@ -1,0 +1,117 @@
+.SectionFive {
+
+    h1 {
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 44.2px;
+        line-height: 62px;
+
+        margin-bottom: 60px;
+    }
+
+    .GridCard {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+
+        .Card {
+
+            img {
+                margin-bottom: 25px;
+            }
+            
+            h2 {
+                
+                width: 331.37px;
+                height: 49.02px;
+                
+                
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 17.875px;
+                line-height: 25px;
+                
+                color: #FFFFFF;
+
+                margin-bottom: 25px;
+            }
+
+            p {
+                width: 344.93px;
+                height: 144.31px;
+                
+                
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 13px;
+                line-height: 18px;
+                
+                color: #FFFFFF;
+            }
+
+            .Profile {
+                display: flex;
+                margin-top: 25px;
+
+                img {
+                    width: 37px;
+                    height: 38px;
+                }
+
+                span {
+                    margin-left: 15px;
+                    
+                    h3 {
+                        font-family: 'DM Sans';
+                        font-style: italic;
+                        font-weight: 700;
+                        font-size: 13px;
+                        line-height: 18px;
+                        
+                        color: rgba(255, 255, 255, 0.5);
+                    }
+                }
+            }
+        }
+    }
+
+    button {
+        margin-top: 100px;
+        width: 291.69px;
+        height: 56.88px;
+        border: none;
+        
+        background: #3C39C6;
+
+        cursor: pointer;
+        
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16.25px;
+        line-height: 57px;
+        
+        color: #FFFFFF;
+    }
+
+    .Logos {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+        margin-top: 100px;
+
+        div {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+    }
+    
+}

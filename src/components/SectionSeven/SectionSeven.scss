@@ -1,0 +1,44 @@
+.SectionSeven {
+    margin-top: 100px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    h1 {
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 55.25px;
+        line-height: 77px;
+        
+        
+        color: #212121;
+        margin-bottom: 50px;
+    }
+
+    .GridMenu {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        background-color: gray;
+        
+        gap: 2px;
+        
+        div {
+            width: 200px;
+            height: 200px;
+            background-color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            flex-direction: column;
+            background-color: green;
+
+            img {
+                width: 100px;
+                height: 100px;
+            }
+        }
+    }
+}

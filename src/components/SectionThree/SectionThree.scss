@@ -1,0 +1,57 @@
+.SectionThree {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    
+    color: #ffffff;
+
+    h1 {
+        width: 1110.28px;
+        height: 89px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 44.2px;
+        line-height: 44px;
+
+        
+    }
+
+    p {
+        margin-top: 25px;
+        width: 1244.65px;
+        height: 88px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.6px;
+        line-height: 22px;
+    }
+
+    button {
+        margin-top: 40px;
+        padding: 15.8906px 77.4062px 17.6406px 77.5938px;
+        
+        width: 299px;
+        height: 56.53px;
+        
+        
+        background: linear-gradient(180deg, rgba(236, 46, 49, 0.2) 0%, #EC2E31 100%);
+        border-radius: 16px;
+        border: none;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16.25px;
+        line-height: 23px;
+
+        color: #ffffff;
+
+        cursor: pointer;
+    }
+}
