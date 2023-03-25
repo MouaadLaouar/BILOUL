@@ -1,7 +1,13 @@
 section { 
   width: 100%;
   padding: 20px 15% 0px;
+  
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
+
+
 
 #Section-One {
   background-color: #1A2131;
@@ -36,3 +42,8 @@ section {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+
+// .NavBar,
+// .SectionOne {
+//   max-width: 1400px;
+// }

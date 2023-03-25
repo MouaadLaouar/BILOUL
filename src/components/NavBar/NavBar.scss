@@ -10,9 +10,13 @@
     align-items: center;
     flex-direction: column;
     
-    img {
+    .logoPic {
         width: 76px;
         height: 101px;
+    }
+
+    .biloul {
+        margin-top: 20px;
     }
 
     h1 {

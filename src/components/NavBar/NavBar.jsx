@@ -1,12 +1,13 @@
 import './NavBar.scss'
 import logo from "../../assets/logo.png"
+import biloul from "../../assets/BILOUL.png"
 
 export default function NavBar() {
   return (
     <div className='NavBar'>
       <div className='logo'>
-        <img src={ logo } alt="logo" />
-        <h1>BILOUL</h1>
+        <img className='logoPic' src={ logo } alt="logo" />
+        <img className='biloul' src={ biloul } alt="bilou" />
       </div>
 
       <div className='Menu'>
