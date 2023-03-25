@@ -9,7 +9,7 @@ export const ContactUs = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBLIC_KEY')
+    emailjs.sendForm('service_4qumudb', 'template_lcxcza3', form.current, 'aUBppwK9ybrFEJQ1Y')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
