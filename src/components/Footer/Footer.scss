@@ -1,0 +1,137 @@
+.Footer {
+    margin-top: 80px;
+    background-color: #212121;
+    color: #ffffff;
+    padding: 75px 15%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    .Content,
+    .Form {
+        height: 100%;
+        width: 50%;
+    }
+
+    .Content {
+
+        h1 {
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 28.6px;
+            line-height: 31px;
+
+            margin-bottom: 40px;
+        }
+
+        p {
+            width: 575.03px;
+            height: 46px;
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18.2px;
+            line-height: 23px;
+        }
+
+        ul {
+            margin-top: 21px;
+
+            li {
+                list-style: none;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15.067px;
+                line-height: 15px;
+                
+                margin: 20px 0px;
+
+                &::before {
+                    content: url(../../assets/check.png);
+                    margin-right: 10px;
+                }
+            }
+        }
+
+        h2 {
+            margin-top: 50px;
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18.2px;
+            line-height: 23px;
+        }
+    }
+
+    .Form {
+
+        background-color: #ffffff;
+        color: black;
+        padding: 50px;
+        
+        h1 {
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 37.375px;
+            line-height: 52px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+
+            
+
+            hr {
+                width: 100%;
+                color: #3c3c3c;
+                
+            }
+
+            div {
+                width: 100%;
+                margin: 7px 0px;
+            }
+
+            .Submit {
+                height: 40.62px;
+                width: 100%;
+                border: none;
+                margin-top: 30px;
+                margin-bottom: 12px;
+                
+                background: rgba(60, 57, 198, 0.5);
+
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 14.625px;
+                line-height: 41px;
+
+                cursor: pointer;
+                
+                color: rgba(255, 255, 255, 0.5);
+            }
+        }
+
+        p {
+            width: 442.98px;
+            height: 26px;
+            
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 13px;
+            line-height: 13px;
+            
+            color: rgba(0, 0, 0, 0.4);
+        }
+    }
+}

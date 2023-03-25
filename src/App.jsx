@@ -7,6 +7,7 @@ import SectionSeven from './components/SectionSeven/SectionSeven'
 import SectionSix from './components/SectionSix/SectionSix'
 import SectionThree from './components/SectionThree/SectionThree'
 import SectionTwo from './components/SectionTwo/SectionTwo'
+import Footer from './components/Footer/Footer'
 
 function App() {
   
@@ -41,6 +42,8 @@ function App() {
       <section id='Section-Seven'>
         <SectionSeven />
       </section>
+
+      <Footer />
     </div>
   )
 }
