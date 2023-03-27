@@ -8,7 +8,11 @@ import Client7 from './assets/Client7.png'
 import Client8 from './assets/Client8.png'
 import Client9 from './assets/Client9.png'
 import Client10 from './assets/Client10.png'
+import Client11 from './assets/Client11.png'
+import Client12 from './assets/Client12.png'
+import Client13 from './assets/Client13.png'
+import Client14 from './assets/Client14.png'
 
-const Clients = [Client1, Client2, Client3, Client4, Client5, Client6, Client7, Client8, Client9, Client10]
+const Clients = [Client1, Client2, Client3, Client4, Client5, Client6, Client7, Client8, Client9, Client10, Client11, Client12, Client13, Client14]
 
 export default Clients;

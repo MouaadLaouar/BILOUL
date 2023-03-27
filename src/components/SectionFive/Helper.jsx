@@ -6,11 +6,7 @@ import logo1 from './assets/logo1.png'
 import logo2 from './assets/logo2.png'
 import logo3 from './assets/logo3.png'
 
-import Logo1 from './assets/logo-1.png'
-import Logo2 from './assets/logo-2.png'
-import Logo3 from './assets/logo-3.png'
-import Logo4 from './assets/logo-4.png'
-import Logo5 from './assets/logo-5.png'
+
 
 
 const card = [
@@ -18,7 +14,7 @@ const card = [
         id: 1,
         icon: logo1,
         title: 'Digital Marketing for Private Investment Firm',
-        description: 'In a competitive market like crypto, there is a bunch of highly skilled professionals, but not all of them have amazing people skills and work ethic. Working with the Ninjas is a pleasure because they really adapt to the work dynamic of the client. Always ready for discussion and looking for the best solutions for the project even when the going gets rough. The way how they helped us meet some of the demanding deadlines was truly impressive.',
+        description: 'B I L O U L stand out in the competitive Startup  space  for their exceptional technical skills and people skills. They adapted to our work dynamic, found great solutions for our project, and impressed us with their work ethic to meet demanding deadlines.',
         profile: {
             picture: picture1,
             name: 'Nacereddine Merzoug',
@@ -29,7 +25,7 @@ const card = [
         id: 2,
         icon: logo2,
         title: 'Digital Marketing for Food & Beverage Business',
-        description: "A data-driven partner, BILOUL has taken the time to examine the client's branding, messaging, and positioning to develop strategies and content that match and provide valuable insights to further help them grow their business. They remain communicative, organized, and reliable.",
+        description: "BILOUL's thorough analysis of our food and beverage brand, coupled with their data-driven approach, has resulted in strategies and insights that go beyond the surface level. Their reliable communication and commitment to understanding our goals will undoubtedly contribute to the long-term growth and success of our business.",
         profile: {
             picture: picture2,
             name: 'Noureddine  Bouhbila',
@@ -50,6 +46,5 @@ const card = [
 ]
 
 
-const Logos = [Logo1, Logo2, Logo3, Logo4, Logo5]
 
-export {card, Logos};
+export {card};

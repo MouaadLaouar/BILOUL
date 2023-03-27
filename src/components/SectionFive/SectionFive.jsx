@@ -1,5 +1,5 @@
 import './SectionFive.scss'
-import { card, Logos } from './Helper'
+import { card } from './Helper'
 
 export default function SectionFive() {
   return (
@@ -28,17 +28,6 @@ export default function SectionFive() {
         </div>
 
         <button>See Case Studies</button>
-
-        <div className='Logos'>
-            <h1>Our Partners are Backed by the Best in Venture</h1>
-            <div>
-            {Logos.map((e) => {
-                return (
-                    <img key={Logos.indexOf(e)} src={ e } alt="logo" />
-                )
-            })}
-            </div>
-        </div>
         
     </div>
   )
