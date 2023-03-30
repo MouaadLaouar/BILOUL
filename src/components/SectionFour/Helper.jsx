@@ -47,7 +47,7 @@ const DataIndustries = [
     {
         id: 7,
         name: 'eCommerce',
-        description: 'Empower and enable your eCommerce venture to achieve bigger and better things with NinjaPromo – your partner in everything digital and marketing.',
+        description: 'Empower and enable your eCommerce venture to achieve bigger and better things with B I L O U L – your partner in everything digital and marketing.',
         icon: logo7
     },
     {
