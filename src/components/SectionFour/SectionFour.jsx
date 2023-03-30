@@ -21,7 +21,7 @@ export default function SectionFour() {
 
         </div>
 
-        <button>Learn More</button>
+        <button><a href="#Footer">Learn More</a></button>
     </div>
   )
 }

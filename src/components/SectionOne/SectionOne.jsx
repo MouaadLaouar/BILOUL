@@ -5,7 +5,7 @@ export default function SectionOne() {
     <div className="SectionOne">
         <h1>Expand Your Business With One Touch</h1>
         <p>A leading digital marketing agency dedicated to elevating your brand through multi-channel marketing solutions, branding and creative design.</p>
-        <button>Meet Biloul Agency</button>
+        <button><a href="#Footer">Contact us</a></button>
     </div>
   )
 }

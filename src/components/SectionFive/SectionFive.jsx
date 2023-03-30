@@ -26,9 +26,6 @@ export default function SectionFive() {
                 )
             })}
         </div>
-
-        <button>See Case Studies</button>
-        
     </div>
   )
 }

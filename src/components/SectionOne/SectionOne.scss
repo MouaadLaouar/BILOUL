@@ -1,8 +1,5 @@
 .SectionOne {
     height: 100vh;
-    
-    
-    
 
     display: flex;
     justify-content: center;
@@ -43,12 +40,16 @@
         border-radius: 15px;
         border: none;
 
-        font-weight: 700;
-        font-size: 16.25px;
-        line-height: 57px;
-
-        color: #ffffff;
-
         cursor: pointer;
+
+        a {
+            text-decoration: none;
+            color: none;
+            font-weight: 700;
+            font-size: 16.25px;
+            line-height: 57px;
+
+            color: #ffffff;
+        }
     }
 }

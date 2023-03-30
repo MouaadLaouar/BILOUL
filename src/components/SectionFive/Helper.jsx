@@ -18,7 +18,7 @@ const card = [
         profile: {
             picture: picture1,
             name: 'Nacereddine Merzoug',
-            role: 'CMO Ultron Foundation'
+            role: 'CEO & Founder'
         }
     },
     {

@@ -43,14 +43,17 @@
         background: #3C39C6;
         border: none;
 
-        font-family: 'DM Sans';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 16.25px;
-        line-height: 23px;
-
-        color: #ffffff;
-
         cursor: pointer;
+
+        a {
+            text-decoration: none;
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16.25px;
+            line-height: 23px;
+    
+            color: #ffffff;
+        }
     }
 }

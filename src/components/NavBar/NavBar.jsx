@@ -14,8 +14,8 @@ export default function NavBar() {
         <ul>
           <li><a href="#Section-Two">Services</a></li>
           <li><a href="#Section-Four">Industries</a></li>
-          <li><a href="#">Company</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#Section-Seven">Company</a></li>
+          <li><a href="#Footer">Contact</a></li>
         </ul>
       </div>
     </div>

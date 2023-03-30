@@ -3,7 +3,7 @@ import './Footer.scss';
 
 export default function Footer() {
   return (
-    <div className='Footer'>
+    <div id='Footer'>
         <div className='Content'>
             <h1>Launch Your Growth Journey Now</h1>
             <p>Become a BILOUL partner and leap-frog your competition. But first, let’s:</p>
