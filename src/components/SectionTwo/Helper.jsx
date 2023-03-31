@@ -44,7 +44,7 @@ const DataDigital = [
     {
         id: 6,
         title: 'Search Engine Optimisation ',
-        description: 'Grow your web presence and rank first on among your peers Google search results.',
+        description: 'Grow your web presence and rank first among your peers Google search results.',
         icon: logo6
     },
     {
