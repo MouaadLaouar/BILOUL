@@ -6,7 +6,7 @@ export default function Footer() {
     <div id='Footer'>
         <div className='Content'>
             <h1>Launch Your Growth Journey Now</h1>
-            <p>Become a B I L O U L partner and leap-frog your competition. But first, let’s:</p>
+            <p>Become a B I L O U L partner and outshine your competition. But first, let’s:</p>
             <ul>
                 <li>Take a deep dive into your business and objectives.</li>
                 <li>Establish tailored strategies that propel you towards your goals.</li>
