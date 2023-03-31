@@ -4,7 +4,7 @@ export default function SectionThree() {
   return (
     <div className='SectionThree'>
         <h1>Partner With a Digital Marketing Agency That Delivers Growth</h1>
-        <p>We’re a full-service digital marketing agency that helps brands that want to get noticed and dominate their industry. We love marketing. We eat, sleep and breathe it. But more importantly, we love seeing our clients grow their businesses with our help. There’s nothing more satisfying than playing a pivotal role in the success of another business. Whether you’re a fresh-faced startup or a seasoned enterprise, we want to be the one that helps you chart a course to explosive growth. If this sounds good to you, then let’s talk.</p>
+        <p>We are a comprehensive digital marketing agency that specializes in assisting brands that aspire to stand out and dominate their industry. Our passion for marketing runs deep, and we take pride in witnessing our clients' businesses thrive with our assistance. There is no greater satisfaction than playing a crucial role in another company's triumph. Whether you are a new startup or an established enterprise, we aspire to be the team that guides you towards explosive growth. If you are interested, let's have a conversation.</p>
         <button><a href="#Footer">Speak to our team</a></button>
     </div>
   )
