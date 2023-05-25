@@ -17,7 +17,7 @@ const DataIndustries = [
     {
         id: 2,
         name: 'Podcasts',
-        description: 'Gain a competitive edge in the financial tech sector using our strategic marketing strategies. Drive awareness, foster trust, and trigger long-term growth.',
+        description: 'Get your voice heard with a digital marketing strategy that resonates with your followers.',
         icon: logo2
     },
     {
