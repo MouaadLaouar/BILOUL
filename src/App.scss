@@ -16,7 +16,6 @@ section {
   background-repeat: no-repeat;
   background-position: center;
   background-position-y: 170px;
-  padding: 20px 0%;
 }
 
 #Section-Three {
@@ -58,5 +57,9 @@ section {
 @media only screen and (max-width: 700px) {
   section {
     padding: 20px 5% 0px;
+  }
+
+  #Section-One {
+    padding: 20px 0%;
   }
 }
