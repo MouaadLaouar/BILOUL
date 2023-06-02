@@ -75,3 +75,38 @@
         }
     }
 }
+
+@media only screen and (max-width: 700px) {
+    .SectionTwo {
+        
+        .Content {
+            h1 {
+                font-size: 25px;
+                height: auto;
+                width: auto;
+                line-height: auto;
+            }
+            p {
+                width: auto;
+                font-size: 14px;
+            }
+
+        }
+
+        .MenuGrid {
+            box-sizing: border-box;
+            margin-top: 50px;
+            grid-template-columns: repeat(1, 1fr);
+            gap: 20px;
+
+            .CardGrid {
+            
+
+                h1, p {
+                    width: auto;
+                }
+            }
+        }
+    }
+
+}

@@ -2,6 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    z-index: 990;
+    padding: 0px 5%;
 }
 
 .logo {
@@ -52,6 +54,57 @@
             }
 
             
+        }
+    }
+}
+
+.Menu_Button {
+    cursor: pointer;
+}
+
+.Menu_Mobile {
+    z-index: 999;
+    background-color: #1C2232;
+    position: absolute;
+    //top: 105px;
+    top: -100%;
+    right: 0px;
+    
+
+    width: 100%;
+    height: 50%;
+
+    display: flex;
+    flex-direction: column;
+
+    transition: all 1s ease-in-out;
+    
+}
+
+.null {
+    transform: translateX(0%);
+
+    
+    display: none;
+}
+
+.active {
+    display: flex;
+    transform: translateX(0%);
+    top: 105px;
+}
+
+@media only screen and (max-width: 700px) {
+    
+
+    .logo {
+        .logoPic {
+            width: 38px;
+            height: 50.5px;
+        }
+
+        .biloul {
+            height: 10px;
         }
     }
 }

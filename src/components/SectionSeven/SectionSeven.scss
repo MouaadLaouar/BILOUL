@@ -35,3 +35,12 @@
         }
     }
 }
+
+@media only screen and (max-width: 700px) {
+    .SectionSeven {
+
+        .GridMenu {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+}

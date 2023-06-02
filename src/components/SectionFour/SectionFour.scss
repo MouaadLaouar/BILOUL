@@ -104,3 +104,19 @@
         }
     }
 }
+
+@media only screen and (max-width: 700px) {
+    .SectionFour {
+
+        .Content {
+            h1, p {
+                width: auto;
+                height: auto;
+            }
+        }
+
+        .GridMenu {
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+}
