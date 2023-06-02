@@ -16,8 +16,8 @@ const DataIndustries = [
     },
     {
         id: 2,
-        name: 'Fintech',
-        description: 'Gain a competitive edge in the financial tech sector using our strategic marketing strategies. Drive awareness, foster trust, and trigger long-term growth.',
+        name: 'Podcasts',
+        description: 'Get your voice heard with a digital marketing strategy that resonates with your followers.',
         icon: logo2
     },
     {
@@ -47,7 +47,7 @@ const DataIndustries = [
     {
         id: 7,
         name: 'eCommerce',
-        description: 'Empower and enable your eCommerce venture to achieve bigger and better things with NinjaPromo – your partner in everything digital and marketing.',
+        description: 'Empower and enable your eCommerce venture to achieve bigger and better things with B I L O U L – your partner in everything digital and marketing.',
         icon: logo7
     },
     {

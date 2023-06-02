@@ -38,9 +38,9 @@
         
         width: 299px;
         height: 56.53px;
-        
-        
-        background: #3C39C6;
+       
+        background: linear-gradient(180deg, rgba(236, 46, 49, 0.2) 0%, #EC2E31 100%);
+        border-radius: 16px;
         border: none;
 
         cursor: pointer;
@@ -57,6 +57,7 @@
         }
     }
 }
+<<<<<<< HEAD
 
 @media only screen and (max-width: 700px) {
     .SectionSix {
@@ -66,3 +67,5 @@
         }
     }
 }
+=======
+>>>>>>> c543cc96859422897d4b3086211fb3fa0c199932

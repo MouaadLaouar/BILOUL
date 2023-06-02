@@ -44,7 +44,7 @@ const DataDigital = [
     {
         id: 6,
         title: 'Search Engine Optimisation ',
-        description: 'Grow your web presence and rank first on among your peers Google search results.',
+        description: 'Grow your web presence and rank first among your peers Google search results.',
         icon: logo6
     },
     {
@@ -68,7 +68,7 @@ const DataDigital = [
     {
         id: 10,
         title: 'App Development ',
-        description: 'Cater to the growing hunger for multimedia digital content through attention-grabbing video production.',
+        description: 'Let us help you manifest your ideas into powerful, custom apps that elevate your business to new heights.',
         icon: logo10
     }
 ]
